@@ -15,8 +15,8 @@ Pandas, numpy, scipy, matplotlib, seaborn, plotly, Power BI, Tableau
 ###### DevOps инструменты:
 Git, Python, Bash
 
-[Портфолио](https://github.com/TemaKham/PORTFOLIO) \
-[Tableu](https://public.tableau.com/app/profile/tema7449) 
+## [Портфолио(Проекты)](https://github.com/TemaKham/PORTFOLIO) 
+## [Tableu(Дашборды)](https://public.tableau.com/app/profile/tema7449) 
 
 ## Меня можно найти 🤙
 
