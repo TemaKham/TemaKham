@@ -21,5 +21,5 @@ Git, Python, Bash
 ## Меня можно найти 🤙
 
 [Telegram](https://t.me/temakham) \
-[Email](temakham@gmail.com) or temakham@gmail.com \
+temakham@gmail.com \
 [Резюме](https://docs.google.com/document/d/1TaMYoZnMDAhKfHvJLq4HDroSua-2ITlsW7SCPJGYakM/edit?usp=sharing)
